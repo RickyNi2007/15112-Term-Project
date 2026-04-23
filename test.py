@@ -309,18 +309,15 @@ def onStep(app):
         else: 
             app.gameOver = True
 
-
-    
 runApp()
-
 
 #Features
 
 #3. Typing number or pressing keypad inputs number into green boxes
-#4. Inputting a number into the formula marks off the number used on the keypad
-#5. Correct or Not after enter, gain points 
 #6. Move onto next box after number is inputted
 #7. Regenerate equations if negative
-#8. Main Menu button 
+#8. Main Menu/Pause button 
+#9. 
 #NOTES
+
 #1 - Find ways to not hardcode (app.width and app.length for centering)
